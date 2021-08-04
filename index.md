@@ -22,7 +22,9 @@ The repository owner can review the change and merge it.
 Register your repository here to make sure LSCBot is monitoring it for available maintenance tasks:
 
 
+<div style="text-align: center; margin-bottom: 28px;">
 <a id="register" href="/register">Register</a>
+</div>
 
 
 ## The Economics of LSCBot
