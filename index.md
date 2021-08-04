@@ -37,7 +37,7 @@ Furthermore the larger the scale of the change the more it makes sense to invest
 LSCBot serves as a central hub for performing code base maintenance across the entire software ecosystem.
 
 ## Who’s getting access to my private repository?
-For LSCs that are fully automated you can set up a cron job that routinely applies available LSCs and sends a PR from an account you own - this LSCBot does need any access to your code.
+For LSCs that are fully automated you can set up a cron job that routinely applies available LSCs and sends a PR from an account you own - this way LSCBot does need any access to your code.
 
 However not all LSCs are fully automated, for non-fully automated LSCs LSCBot will let you know that an LSC is available for your repository and will ask you for temporary access to your repository in order to perform the refactoring. You can choose to manually approve each request, or automatically allow/deny all requests.
 
